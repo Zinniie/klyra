@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter analyze *)",
+      "Bash(curl -fLo DMSans-Regular.ttf \"https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/static/DMSans-Regular.ttf\")",
+      "Bash(curl -fLo DMSans-Medium.ttf \"https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/static/DMSans-Medium.ttf\")",
+      "Bash(curl -fLo DMSans-Bold.ttf \"https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/static/DMSans-Bold.ttf\")",
+      "Bash(curl -fLo DMSans-Regular.ttf \"https://cdn.jsdelivr.net/npm/@fontsource/dm-sans/files/dm-sans-latin-400-normal.ttf\")",
+      "Bash(curl -fLo DMSans-Medium.ttf  \"https://cdn.jsdelivr.net/npm/@fontsource/dm-sans/files/dm-sans-latin-500-normal.ttf\")",
+      "Bash(curl -fLo DMSans-Bold.ttf    \"https://cdn.jsdelivr.net/npm/@fontsource/dm-sans/files/dm-sans-latin-700-normal.ttf\")",
+      "Bash(curl -fLo Fraunces-Light.ttf    \"https://cdn.jsdelivr.net/npm/@fontsource/fraunces/files/fraunces-latin-300-normal.ttf\")",
+      "Bash(curl -fLo Fraunces-Regular.ttf  \"https://cdn.jsdelivr.net/npm/@fontsource/fraunces/files/fraunces-latin-400-normal.ttf\")",
+      "Bash(curl -fLo Fraunces-SemiBold.ttf \"https://cdn.jsdelivr.net/npm/@fontsource/fraunces/files/fraunces-latin-600-normal.ttf\")",
+      "Bash(curl -A \"Mozilla/5.0\" -s \"https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Fraunces:wght@300;400;600&display=swap\")",
+      "Bash(curl -fLo DMSans-Regular.ttf  \"https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf\")",
+      "Bash(curl -fLo DMSans-Medium.ttf   \"https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf\")",
+      "Bash(curl -fLo DMSans-Bold.ttf     \"https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf\")",
+      "Bash(curl -fLo Fraunces-Light.ttf    \"https://fonts.gstatic.com/s/fraunces/v38/6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIc6RujDg.ttf\")",
+      "Bash(curl -fLo Fraunces-Regular.ttf  \"https://fonts.gstatic.com/s/fraunces/v38/6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIctxujDg.ttf\")"
+    ]
+  }
+}
