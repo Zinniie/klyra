@@ -32,34 +32,30 @@ To explore the app without creating an account:
 
 ```
 Email:    test@klyra.app
-Password: Klyra2026@
+Password: Klyra2026!
 ```
 
 ---
 
 ## Screenshots
 
-### Splash & Onboarding
-![Splash](screenshots/splash.png)
-![Onboarding](screenshots/onboarding.png)
+### Splash and Onboarding
+<img src="https://github.com/user-attachments/assets/ce137bd2-f3f6-4c78-a3b1-dafff15c389d" width="250"> <img src="https://github.com/user-attachments/assets/145e378f-00c3-45ed-88fa-cb394095fd26" width="250">
 
 ### Authentication
-![Login](screenshots/login.png)
-![Register](screenshots/register.png)
+<img src="https://github.com/user-attachments/assets/f1480561-8c84-4187-b269-1a991d9deb60" width="250"> <img src="https://github.com/user-attachments/assets/4eb36eca-c324-4293-90e1-c6c9dd2b646a" width="250">
 
 ### Home Dashboard
-![Home](screenshots/home.png)
+<img src="https://github.com/user-attachments/assets/50ce5785-594a-4cab-8255-2714806bda17" width="250">
 
 ### Send Money Flow
-![Send Step 2](screenshots/send_amount.png)
-![Send Step 3](screenshots/send_review.png)
+<img src="https://github.com/user-attachments/assets/06950955-4cf0-4cac-80ab-d5f383ab2293" width="250"> <img src="https://github.com/user-attachments/assets/eed4c876-755b-4c73-8a9b-47138c4a1167" width="250">
 
 ### Top Up & Cards
-![Top Up](screenshots/top_up.png)
-![Add Card](screenshots/add_card.png)
+<img src="https://github.com/user-attachments/assets/99cb1cfd-6f89-40ca-92b6-6f7ddce4954d" width="250"> <img src="https://github.com/user-attachments/assets/6444f0e0-cd9d-4cd9-b33f-4b1a7578ff20" width="250">
 
 ### Notifications
-![Notifications](screenshots/notifications.png)
+<img src="https://github.com/user-attachments/assets/655d6023-1bfc-4b8e-972d-555f65ec8aed" width="250">
 
 ---
 
